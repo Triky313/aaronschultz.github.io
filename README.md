@@ -1,5 +1,5 @@
 # aaronschultz.github.io
-### https://github.com/Triky313/aaronschultz_www
+### https://triky313.github.io/aaronschultz_www
 
 Ethereal by HTML5 UP
 html5up.net | @ajlkn
