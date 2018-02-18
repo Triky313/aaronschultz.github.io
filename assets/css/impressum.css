@@ -1,0 +1,19 @@
+@media screen and (max-width: 736px) {
+	.window {
+		background-color: #fff;
+		margin-left: auto;
+		margin-right: auto;
+		width: 90%;
+		padding: 1rem;
+		margin-top: 5rem;
+	}
+}
+
+.window {
+	background-color: #fff;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+	padding: 1rem;
+	margin-top: 5rem;
+}
